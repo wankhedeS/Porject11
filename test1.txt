@@ -3,7 +3,7 @@ package loopsinjava;
 public class Heartloop {
 	// Java program to print heart pattern
 	public static void main(String[] args) {
-		final String message = "HEY SHWETA LOVE U YAR";
+		final String message = "HEY SHWETA LOVE U YAR-kuch bhi!!";
 		final int n = 10;
 
 		for (int i = 0; i < n; i++) {
